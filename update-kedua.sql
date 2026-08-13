@@ -1,1 +1,2 @@
 update database 
+delete database *
